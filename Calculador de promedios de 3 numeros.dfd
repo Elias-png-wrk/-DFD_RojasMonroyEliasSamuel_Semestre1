@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+'Hola estimado usuario, déjeme ayudarlo a calcular el promedio de 3 números. Por favor dígitelos a continuación:'
+5
+1
+5
+a,b,c
+4
+1
+74
+'Señor usuario el promedio de los 3 numerós que digitó es ', (a+b+c)/3,'.'
+1
