@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+296
+'Hola estimado usuario, déjeme ayudarlo a calcular el área de un rectángulo a partir de su base y altura. Primero ingrese los valores en centímetros de la base, luego ingrese los de la altura.                                                        IMPORTANTE: No coloque las unidades de medida,' 
+5
+1
+11
+base,altura
+4
+1
+50
+'El área de su rectángulo es: ',base*altura,'cm².'
+1
