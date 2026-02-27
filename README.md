@@ -6,4 +6,4 @@
 - Frank Sebastián Mora Largo 2 – 1112041
 
 ## Tema
-Estructuras condicionales en Diagramas de Flujo y condiciones anidadas.
+Ejercicios en Diagramas de Flujo.
