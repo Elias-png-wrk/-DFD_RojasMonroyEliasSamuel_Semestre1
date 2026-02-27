@@ -1,4 +1,4 @@
-# Ejercicios 25/02/2026 - DFD
+# Ejercicios 24/02/2026 - DFD
 
 ## Integrantes
 
